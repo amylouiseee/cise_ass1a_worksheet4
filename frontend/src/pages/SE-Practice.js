@@ -1,5 +1,6 @@
 import React from "react";
  
+//SE-Practice page
 const SEPractice = () => {
     return (
       <div>
