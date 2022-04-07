@@ -1,5 +1,6 @@
 import React from "react";
  
+//submit article page
 const SubmitArticle = () =>  {
      return (
       <div>
